@@ -206,12 +206,6 @@ outputs:
       description: |-
         The development team's ID.
         Example: `1MZX23ABCD4`
-  - BITRISE_DEVELOPMENT_CODESIGN_IDENTITY:
-    opts:
-      title: "The development code signing identity's name"
-      description: |-
-        The development code signing identity's name.
-        For example, `iPhone Developer: Bitrise Bot (VV2J4SV8V4)`.
   - BITRISE_PRODUCTION_CODESIGN_IDENTITY:
     opts:
       title: "The production code signing identity's name"
