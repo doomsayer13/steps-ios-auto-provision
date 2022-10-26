@@ -215,8 +215,6 @@ outputs:
   - BITRISE_PRODUCTION_CODESIGN_IDENTITY:
     opts:
       title: "The production code signing identity's name"
-    opts:
-      title: "The production code signing identity's name"
       description: |-
         The production code signing identity's name.
         Example: `iPhone Distribution: Bitrise Bot (VV2J4SV8V4)`
