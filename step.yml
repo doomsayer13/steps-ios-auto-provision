@@ -224,5 +224,3 @@ outputs:
       description: |-
         The main target's production provisioning profile UUID.
         Example: `c5be4123-1234-4f9d-9843-0d9be985a068`
-
- 
