@@ -124,3 +124,4 @@ Learn more about developing steps:
 
 - [Create your own step](https://devcenter.bitrise.io/contributors/create-your-own-step/)
 - [Testing your Step](https://devcenter.bitrise.io/contributors/testing-and-versioning-your-steps/)
+
